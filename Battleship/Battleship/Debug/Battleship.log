@@ -1,0 +1,9 @@
+﻿  main.c
+c:\users\stefyboy\documents\visual studio 2015\projects\battleship\battleship\main.c(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\stefyboy\documents\visual studio 2015\projects\battleship\battleship\main.c(38): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\stefyboy\documents\visual studio 2015\projects\battleship\battleship\main.c(19): warning C4101: 'selected': unreferenced local variable
+  battleship.c
+c:\users\stefyboy\documents\visual studio 2015\projects\battleship\battleship\battleship.c(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+c:\users\stefyboy\documents\visual studio 2015\projects\battleship\battleship\battleship.c(258): warning C4715: 'isValid': not all control paths return a value
+  Battleship.vcxproj -> C:\Users\StefyBoy\Documents\Visual Studio 2015\Projects\Battleship\Debug\Battleship.exe
