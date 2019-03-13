@@ -1,3 +1,3 @@
 # Battleship
 
-Programming assignment made in CPTS 121
+BattleShip using VS Studio Console for GUI.
